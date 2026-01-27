@@ -1,0 +1,12 @@
+Get-Content : Cannot find path 'C:\Users\heman\OneDrive\Desktop\FarmChainX-AI-Driven-Agric
+ultural-Traceability-Network-main\backend\.mvn\wrapper\maven-wrapper.properties' because 
+it does not exist.
+At line:54 char:21
++ ... utionUrl = (Get-Content -Raw "$scriptDir/.mvn/wrapper/maven-wrapper.p ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\heman\...pper.properties:String)  
+   [Get-Content], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetContentComman 
+   d
+ 
+Cannot start maven from wrapper  
